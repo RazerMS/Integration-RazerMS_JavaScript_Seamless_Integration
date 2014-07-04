@@ -26,7 +26,7 @@ The MOLPay seamless plugin process your button, via data attributes or JavaScrip
 
 <h3>Via data attributes</h3>
 
-Activate a MOLPay seamless without writing JavaScript. Set <code>data-toggle="molpayseamless"</code> on a controller element, like a button, along with a <code>data-amount="1.01"</code> to set value.
+Activate a MOLPay seamless without writing JavaScript. Set <code>data-toggle="molpayseamless"</code> on a controller element, like a button, along with a <code>data-mpsamount="1.01"</code> to set value.
 
 ```html
 <button type="button" data-toggle="molpayseamless">Pay via Maybank2u</button> 
@@ -42,7 +42,7 @@ $('#myPay').MOLPaySeamless(options)
 
 <h3>Options</h3>
 
-Options can be passed via data attributes or JavaScript. For data attributes, append the option name to <code>data-</code>, as in <code>data-amount=""</code>.
+Options can be passed via data attributes or JavaScript. For data attributes, append the option name to <code>data-</code>, as in <code>data-mpsamount=""</code>.
 
 Name | type | mandatory | dafault | description
 --- | --- | --- | --- | ---
