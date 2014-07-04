@@ -16,6 +16,8 @@ Include below javascript library in your web.
 Example
 ---------
 
+![alt text](https://raw.githubusercontent.com/MOLPay/Maybank2u-Seamless-Integration/master/mb2u_button.jpg "Example Button")
+
 ```html
 <!-- Button trigger MOLPay seamless -->
 <button type="button" class="btn btn-primary btn-lg" data-toggle="molpayseamless" data-mpsmerchantid="molpaymerchant" data-mpschannel="maybank2u" data-mpsamount="1.20" data-mpsorderid="TEST1139669863" data-mpsbill_name="MOLPay Technical" >Pay via Maybank2u</button>
