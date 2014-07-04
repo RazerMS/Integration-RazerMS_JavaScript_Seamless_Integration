@@ -60,6 +60,16 @@ mpscurrency |	3 chars ISO4217 currency code |	*Optional* |	MYR |	Default payment
 mpslangcode |	2 Chars |	*Optional* |	en |	Default language, i.e. English, will be displayed without langcode specified.
 mpsreturnurl |	String |	*Optional* |		 | Obsoleted. Used for multiple return URL. All URLs must be registered beforehand with MOLPay.
 
+Data attributes for individual MOLPay seamless
+----------------------------------------------
+Options for individual MOLPay seamless can alternatively be specified through the use of data attributes, as explained above.
 
-
-
+Support
+-------
+Merchant Technical Support / Customer Care : support@molpay.com <br>
+Sales/Reseller Enquiry : sales@molpay.com <br>
+Marketing Campaign : marketing@molpay.com <br>
+Channel/Partner Enquiry : channel@molpay.com <br>
+Media Contact : media@molpay.com <br>
+R&D and Tech-related Suggestion : technical@molpay.com <br>
+Abuse Reporting : abuse@molpay.com
