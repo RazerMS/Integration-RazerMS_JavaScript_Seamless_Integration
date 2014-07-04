@@ -5,9 +5,11 @@ Maybank2u-Seamless-Integration
 Getting started
 ---------------
 
+Register your domain first by email to our support : support@molpay.com 
+
 Include below javascript library in your web.
 
-```javascript
+```html
  <script src="https://www.onlinepayment.com.my/MOLPay/API/seamless/js/MOLPay_seamless.deco.js"></script> 
 ```
 
