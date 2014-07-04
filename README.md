@@ -54,12 +54,11 @@ mpsbill_name |	String |	*Yes* |	MOLPay Demo |	Buyer name
 mpsbill_email |	String |	*Yes* |	demo@molpay.com |	Buyer email
 mpsbill_mobile |	String |	*Yes* |	55218438 |	Buyer mobile contact number.
 mpsbill_desc |	String |	*Yes* |	Testing MOLPay seamless integration |	Purchase itemized list or order description. Try to avoid special character so that the payment request is not blocked by web application firewall.
-mpscountry |	ISO3166 country code (Alpha2) |	*Optional* |	MY |	Buyer.s country or the shipping destionation country.
-E.g. MY for Malaysia.
-
-
-
-
+mpscountry |	ISO3166 country code (Alpha2) |	*Optional* |	MY |	Buyer.s country or the shipping destionation country. E.g. MY for Malaysia.
+mpsvcode |	String |	*optional* if accept open amount or order payment, such as virtual terminal, otherwise is *mandatory*. 32 chars hexadecimal string | 	 |	This is the data integrity protection hash string.
+mpscurrency |	3 chars ISO4217 currency code |	*Optional* |	MYR |	Default payment currency from merchant site. E.g. MYR, USD, EUR, AUD, SGD, CNY, IDR.
+mpslangcode |	2 Chars |	*Optional* |	en |	Default language, i.e. English, will be displayed without langcode specified.
+mpsreturnurl |	String |	*Optional* |		 | Obsoleted. Used for multiple return URL. All URLs must be registered beforehand with MOLPay.
 
 
 
