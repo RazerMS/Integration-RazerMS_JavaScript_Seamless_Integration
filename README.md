@@ -1,4 +1,4 @@
-Maybank2u-Seamless-Integration
+Maybank2u Seamless Integration
 ==============================
 
 
