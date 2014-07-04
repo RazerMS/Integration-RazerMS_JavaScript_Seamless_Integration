@@ -16,7 +16,7 @@ Include below javascript library in your web.
 Example
 ---------
 
-![alt text](https://raw.githubusercontent.com/MOLPay/Maybank2u-Seamless-Integration/master/mb2u_button.jpg "Example Button")
+![alt text](https://github.com/MOLPay/Maybank2u-Seamless-Integration/blob/master/mb2u_button.jpg "Example Button")
 
 ```html
 <!-- Button trigger MOLPay seamless -->
