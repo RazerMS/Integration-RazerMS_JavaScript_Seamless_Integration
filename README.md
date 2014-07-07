@@ -42,7 +42,7 @@ Activate a MOLPay seamless without writing JavaScript. Set <code>data-toggle="mo
 Call a MOLPay seamless with id <code>myPay</code> with a single line of JavaScript:
 
 ```javascript
-
+$( document ).ready(function() {
 var options = { 
                mpsmerchantid:"molpaymerchant",
                mpschannel:"maybank2u", 
@@ -52,7 +52,8 @@ var options = {
                ...
               }; 
                
-$('#myPay').MOLPaySeamless(options) 
+$('#myPay').MOLPaySeamless(options)
+});
                         
 ```
 
