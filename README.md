@@ -77,6 +77,12 @@ Data attributes for individual MOLPay seamless
 ----------------------------------------------
 Options for individual MOLPay seamless can alternatively be specified through the use of data attributes, as explained above.
 
+Return Parameters
+-----------------
+- All return parameters are same as described in MOLPay API for merchant. 
+- Merchant can use the same return URL script for this seamless integration.
+- Once payment done, existing page will be replaced by the merchant return URL.
+
 Support
 -------
 Merchant Technical Support / Customer Care : support@molpay.com <br>
