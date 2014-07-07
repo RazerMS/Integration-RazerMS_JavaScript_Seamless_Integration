@@ -43,16 +43,16 @@ Call a MOLPay seamless with id <code>myPay</code> with a single line of JavaScri
 
 ```javascript
 $( document ).ready(function() {
-var options = { 
-               mpsmerchantid:"molpaymerchant",
-               mpschannel:"maybank2u", 
-               mpsamount:"1.20", 
-               mpsorderid:"TEST728638391", 
-               mpsbill_name:"MOLPay Technical", 
-               ...
-              }; 
-               
-$('#myPay').MOLPaySeamless(options)
+     var options = { 
+                    mpsmerchantid:"molpaymerchant",
+                    mpschannel:"maybank2u", 
+                    mpsamount:"1.20", 
+                    mpsorderid:"TEST728638391", 
+                    mpsbill_name:"MOLPay Technical", 
+                    ...
+                   }; 
+                    
+     $('#myPay').MOLPaySeamless(options)
 });
                         
 ```
