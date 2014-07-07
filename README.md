@@ -19,7 +19,7 @@ Example
 ![alt text](https://raw.githubusercontent.com/MOLPay/Maybank2u-Seamless-Integration/master/mb2u_button.jpg "Example Button")
 ```html
 <!-- Button trigger MOLPay seamless -->
-<button type="button" class="btn btn-primary btn-lg" data-toggle="molpayseamless" data-mpsmerchantid="molpaymerchant" data-mpschannel="maybank2u" data-mpsamount="1.20" data-mpsorderid="TEST1139669863" data-mpsbill_name="MOLPay Technical" >Pay via Maybank2u</button>
+<button type="button" id="myPay" class="btn btn-primary btn-lg" data-toggle="molpayseamless" data-mpsmerchantid="molpaymerchant" data-mpschannel="maybank2u" data-mpsamount="1.20" data-mpsorderid="TEST1139669863" data-mpsbill_name="MOLPay Technical" >Pay via Maybank2u</button>
 ```
 
 Usage
@@ -40,7 +40,17 @@ Activate a MOLPay seamless without writing JavaScript. Set <code>data-toggle="mo
 Call a MOLPay seamless with id <code>myPay</code> with a single line of JavaScript:
 
 ```javascript
+var option = { 
+               mpsmerchantid:"molpaymerchant",
+               mpschannel:"maybank2u", 
+               mpsamount:"1.20", 
+               mpsorderid:"TEST728638391", 
+               mpsbill_name:"MOLPay Technical", 
+               ...
+              }; 
+               
 $('#myPay').MOLPaySeamless(options) 
+                        
 ```
 
 <h3>Options</h3>
