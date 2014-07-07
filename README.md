@@ -12,7 +12,6 @@ Include below javascript library in your web.
 ```html
  <!-- jQuery (necessary for MOLPay Maybank2u Seamless JavaScript plugins) -->
  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
- 
  <script src="https://www.onlinepayment.com.my/MOLPay/API/seamless/js/MOLPay_seamless.deco.js"></script> 
 ```
 
