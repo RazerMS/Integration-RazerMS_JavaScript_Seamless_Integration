@@ -1,4 +1,4 @@
-Seamless Integration Module
+Seamless Integration
 =======================================
 
 
