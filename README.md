@@ -11,7 +11,7 @@ Register your domain by email to our support : support@molpay.com
 Include below javascript library in your web.
 
 ```html
- <!-- jQuery (necessary for MOLPay e-Pay Seamless JavaScript plugins) -->
+ <!-- jQuery (necessary for MOLPay Seamless JavaScript plugins) -->
  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
  <script src="https://www.onlinepayment.com.my/MOLPay/API/seamless/js/MOLPay_seamless.deco.js"></script> 
 ```
@@ -21,7 +21,7 @@ Example
 
 ![alt text](https://raw.githubusercontent.com/MOLPay/Maybank2u-Seamless-Integration/master/pay_via_m2u.png "Example Button")
 ```html
-<!-- Button trigger MOLPay seamless -->
+<!-- Button trigger MOLPay Seamless -->
 <button type="button" id="myPay" class="btn btn-primary btn-lg" data-toggle="molpayseamless" data-mpsmerchantid="molpaymerchant" data-mpschannel="maybank2u" data-mpsamount="1.20" data-mpsorderid="TEST1139669863" data-mpsbill_name="MOLPay Technical" >Pay by Maybank2u</button>
 ```
 
