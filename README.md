@@ -5,9 +5,9 @@ Seamless Integration
 Getting started
 ---------------
 
-Register your domain by email to our support : support@molpay.com 
+####Register your domain by email to our support : support@molpay.com 
 
-Include below javascript library in your web.
+####Include below javascript library in your web.
 
 ```html
  <!-- jQuery (necessary for MOLPay e-Pay Seamless JavaScript plugins) -->
