@@ -1,16 +1,16 @@
-Maybank2u Seamless Integration
-==============================
+Seamless Integration Module
+=======================================
 
 
 Getting started
 ---------------
 
-Register your domain first by email to our support : support@molpay.com 
+Register your domain by email to our support : support@molpay.com 
 
 Include below javascript library in your web.
 
 ```html
- <!-- jQuery (necessary for MOLPay Maybank2u Seamless JavaScript plugins) -->
+ <!-- jQuery (necessary for MOLPay e-Pay Seamless JavaScript plugins) -->
  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
  <script src="https://www.onlinepayment.com.my/MOLPay/API/seamless/js/MOLPay_seamless.deco.js"></script> 
 ```
@@ -21,7 +21,7 @@ Example
 ![alt text](https://raw.githubusercontent.com/MOLPay/Maybank2u-Seamless-Integration/master/pay_via_m2u.png "Example Button")
 ```html
 <!-- Button trigger MOLPay seamless -->
-<button type="button" id="myPay" class="btn btn-primary btn-lg" data-toggle="molpayseamless" data-mpsmerchantid="molpaymerchant" data-mpschannel="maybank2u" data-mpsamount="1.20" data-mpsorderid="TEST1139669863" data-mpsbill_name="MOLPay Technical" >Pay via Maybank2u</button>
+<button type="button" id="myPay" class="btn btn-primary btn-lg" data-toggle="molpayseamless" data-mpsmerchantid="molpaymerchant" data-mpschannel="maybank2u" data-mpsamount="1.20" data-mpsorderid="TEST1139669863" data-mpsbill_name="MOLPay Technical" >Pay by Maybank2u</button>
 ```
 
 Usage
@@ -34,7 +34,7 @@ The MOLPay seamless plugin process your button, via data attributes or JavaScrip
 Activate a MOLPay seamless without writing JavaScript. Set <code>data-toggle="molpayseamless"</code> on a controller element, like a button, along with a <code>data-mpsamount="1.01"</code> to set value.
 
 ```html
-<button type="button" data-toggle="molpayseamless">Pay via Maybank2u</button> 
+<button type="button" data-toggle="molpayseamless">Pay by Maybank2u</button> 
 ```
 
 <h3>Via JavaScript</h3>
@@ -61,21 +61,51 @@ $( document ).ready(function() {
 
 Options can be passed via data attributes or JavaScript. For data attributes, append the option name to <code>data-</code>, as in <code>data-mpsamount=""</code>.
 
-Name | type | mandatory | dafault | description
+Name | Data Type (size) | M/O | Description
 --- | --- | --- | --- | ---
-mpsmerchantid |	String |	*Yes* |		 | Is the merchant login name given by MOLPay.
-mpschannel |	String |	*Yes* |	maybank2u |	Bank code name.
-mpsamount |	Float with 2 decimal place |	*Yes* |	1.10 |	The transaction amount in one bill. **Min accepted amount : 1.01**
-mpsorderid |	String |	*Yes* |	MPS`<?php=rand()>` |	Bill/invoice number.
-mpsbill_name |	String |	*Yes* |	MOLPay Demo |	Buyer name
-mpsbill_email |	String |	*Yes* |	demo@molpay.com |	Buyer email
-mpsbill_mobile |	String |	*Yes* |	55218438 |	Buyer mobile contact number.
-mpsbill_desc |	String |	*Yes* |	Testing MOLPay seamless integration |	Purchase itemized list or order description. Try to avoid special character so that the payment request is not blocked by web application firewall.
-mpscountry |	ISO3166 country code (Alpha2) |	*Optional* |	MY |	Buyer.s country or the shipping destionation country. E.g. MY for Malaysia.
-mpsvcode |	String |	*optional* if accept open amount or order payment, such as virtual terminal, otherwise is *mandatory*. 32 chars hexadecimal string | 	 |	This is the data integrity protection hash string.
-mpscurrency |	3 chars ISO4217 currency code |	*Optional* |	MYR |	Default payment currency from merchant site. E.g. MYR, USD, EUR, AUD, SGD, CNY, IDR.
-mpslangcode |	2 Chars |	*Optional* |	en |	Default language, i.e. English, will be displayed without langcode specified.
-mpsreturnurl |	String |	*Optional* |		 | Obsoleted. Used for multiple return URL. All URLs must be registered beforehand with MOLPay.
+mpsmerchantid |	an{1..32} |	*M*	| Merchant login username provided by MOLPay.
+mpschannel |	an{3..32} |	*M* | Refer to **Appendix C** for more channel code.
+mpsamount |	ns{10,2} |	*M* |	The transaction amount in one bill. **Min accepted amount : 1.01**
+mpsorderid |	an{1..32} |	*M* |	Bill / Invoice no. provided by merchant.
+mpsbill_name |	a{1..128} |	*M* |	Buyer name.
+mpsbill_email |	ans{1..128} |	*M* |	Buyer email.
+mpsbill_mobile |	n{1..128} |	*M* |	Buyer mobile contact number.
+mpsbill_desc |	an{1..200} |	*M* |	Bill / Description provided by merchant / buyer.
+mpscountry |	a{2} |	*O* |	Buyer country.
+mpsvcode |	an{32} |	*C* | This is the data integrity protection hash string provided by merchant.
+mpscurrency |	a{3} |	*O* | Payment currency, E.g. MYR, SGD, USD & etc.
+mpslangcode |	a{2} |	*O* |	Default language, E.g. 'en' for default
+mpsreturnurl |	ans{1..200} |	*O* |	Obsoleted. Used for multiple return URL. All URLs must be registered beforehand with MOLPay.
+
+Appendix A: Data Type Details
+--------------------------------
+No | Code | Description
+----|------|----
+1. | a | Letters, A-Za-z
+2. | n | Numbers, 0-9
+3. | s | Symbols, .:|?*,!&_-
+4. | {x} | Fixed length x
+5. | {y..x} | Length range: y – x
+6. | {y,x} | Number range: 0-9. 0-9
+
+Appendix B: M/O Details
+--------------------------------
+No | Code | Description
+----|------|----
+1. | M | Mandatory field.
+2. | O | Optional field, value can be empty.
+3. | C | Conditional
+
+Appendix C: Channel details (mpschannel)
+--------------------------------
+No | Code | Description
+----|------|----
+1. | maybank2u | Maybank2u Online Banking
+2. | cimbclicks | CimbClicks Online Banking
+3. | hlb  | HLB Connect Online Banking
+4. | rhb  | RHB Now Online Banking
+5. | cash-711 | 7-Eleven(MOLPay Cash) Physical Payment Channel
+6. | cash-epay | epay(MOLPay Cash) Physical Payment Channel
 
 Data attributes for individual MOLPay seamless
 ----------------------------------------------
