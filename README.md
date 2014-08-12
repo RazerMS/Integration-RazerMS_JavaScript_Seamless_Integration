@@ -2,10 +2,12 @@ Seamless Integration
 =======================================
 
 
+
 Getting started
 ---------------
 
 Register your domain by email to our support : support@molpay.com
+
 Include below javascript library in your web.
 
 ```html
