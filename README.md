@@ -105,8 +105,9 @@ No | Code | Description
 2. | cimbclicks | CimbClicks Online Banking
 3. | hlb  | HLB Connect Online Banking
 4. | rhb  | RHB Now Online Banking
-5. | cash-711 | 7-Eleven(MOLPay Cash) Physical Payment Channel
-6. | cash-epay | epay(MOLPay Cash) Physical Payment Channel
+5. | amb  | AmBank AmOnline banking
+6. | cash-711 | 7-Eleven(MOLPay Cash) Physical Payment Channel
+7. | cash-epay | epay(MOLPay Cash) Physical Payment Channel
 
 Data attributes for individual MOLPay seamless
 ----------------------------------------------
