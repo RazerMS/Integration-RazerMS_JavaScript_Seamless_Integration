@@ -1,7 +1,11 @@
 Seamless Integration
 =======================================
 
-
+Important
+--------------------
+```
+Please do not geneate your vcode in JS as this will disclose the merchant verify key.
+```
 
 Getting started
 ---------------
