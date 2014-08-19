@@ -103,15 +103,15 @@ No | Code | Description
 
 Appendix C: Channel details (mpschannel)
 --------------------------------
-No | Code | Description
-----|------|----
-1. | maybank2u | Maybank2u Online Banking
-2. | cimbclicks | CimbClicks Online Banking
-3. | hlb  | HLB Connect Online Banking
-4. | rhb  | RHB Now Online Banking
-5. | amb  | AmBank AmOnline banking
-6. | cash-711 | 7-Eleven(MOLPay Cash) Physical Payment Channel
-7. | cash-epay | epay(MOLPay Cash) Physical Payment Channel
+No | Code | Description| Type
+----|------|-----|--------
+1. | maybank2u | Maybank2u | Online Banking
+2. | cimbclicks | CimbClicks | Online Banking
+3. | hlb  | HLB Connect | Online Banking
+4. | rhb  | RHB Now | Online Banking
+5. | amb  | AmOnline | Online banking
+6. | cash-711 | 7-Eleven(MOLPay Cash) | Physical Payment
+7. | cash-epay | epay(MOLPay Cash) | Physical Payment
 
 Data attributes for individual MOLPay seamless
 ----------------------------------------------
