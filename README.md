@@ -108,7 +108,7 @@ No | Code | Description| Type
 1. | affinonline | Affin Bank(Affin Online) | Online Banking
 2. | amb  | Am Bank (Am Online) | Online Banking
 3. | cimbclicks | CIMB Bank(CIMB Clicks) | Online Banking
-4. | fpx  | MyClear FPX (Maybank2u,CIMB Clicks,HLB Connect,RHB Now,PBB Online,Bank Islam | Online Banking
+4. | fpx  | MyClear FPX (Maybank2u, CIMB Clicks, HLB Connect, RHB Now, PBB Online, Bank Islam | Online Banking
 5. | hlb  | Hong Leong Bank(HLB Connect) | Online Banking
 6. | maybank2u | Maybank(Maybank2u) | Online Banking
 7. | pbb  | PublicBank (PBB Online) | Online Banking
