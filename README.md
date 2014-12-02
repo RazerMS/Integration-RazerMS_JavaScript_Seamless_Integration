@@ -15,6 +15,8 @@ assistance, please email support@molpay.com
 Installations for Seamless 
 --------------------------
 
+[FB APP Seamless Integration](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-FB-App-Seamless-Integration)
+
 [Seamless Integration v2.0.7](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v2.0.7)  
 
 [Seamless Integration v3.0](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.0)
