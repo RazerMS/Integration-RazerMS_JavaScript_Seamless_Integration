@@ -17,13 +17,8 @@ Installations for Seamless
 
 [Seamless Integration V2.0.7](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v2.0.7)  
 
-[Seamless Integration V3.0](https://github.com/MOLPay/Prestashop_Plugin/wiki/Installation-for-Prestashop-version-1.5.6.x&1.6.0.x-and-above)
+[Seamless Integration V3.0](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.0)
 
-
-Contribution
-------------
-
-You can contribute to this plugin by sending the pull request to this repository.
 
 
 Issues
