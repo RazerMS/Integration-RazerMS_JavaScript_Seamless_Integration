@@ -15,9 +15,9 @@ assistance, please email support@molpay.com
 Installations for Seamless 
 --------------------------
 
-[Seamless Integration V2.0.7](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v2.0.7)  
+[Seamless Integration v2.0.7](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v2.0.7)  
 
-[Seamless Integration V3.0](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.0)
+[Seamless Integration v3.0](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.0)
 
 
 
