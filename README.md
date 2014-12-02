@@ -9,7 +9,7 @@ Notes
 
 MOLPay Sdn. Bhd. is not responsible for any problems that might arise from the use of this module. 
 Use at your own risk. Please backup any critical data before proceeding. For any query or 
-assistance, please email support@molpay.com 
+assistance, please email to support@molpay.com 
 
 
 Installations for Seamless 
