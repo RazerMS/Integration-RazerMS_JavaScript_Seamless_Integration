@@ -5,7 +5,7 @@ MOLPay Seamless Integration develop by MOLPay technical team.
 
 Revision History
 ----------------
-Latest update 2014/12/8
+Latest update 2014/12/08
 
 - Seamless Integration v3.0(PCI)
 
