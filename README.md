@@ -9,13 +9,13 @@ Latest update 2014/12/08
 
 - Seamless Integration v3.0(PCI)
 
-  - New supporting channel (credit card).
+  - New supporting channel (credit card) without normal tokenization or 1-click but do support MasterPass.
 
 Update 2014/12/02
 
 - Seamless Integration v3.0(non-PCI)
 
-  - New supporting channel (credit card).
+  - New supporting channel (credit card) without normal tokenization or 1-click but do support MasterPass.
   
 
 
