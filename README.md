@@ -5,7 +5,12 @@ MOLPay Seamless Integration develop by MOLPay technical team.
 
 Revision History
 ----------------
-Latest update 2014/12/08
+Latest update 2015/06/04
+
+- Seamless Integration v3.1(non-PCI)
+  - Fix popup blocker issue.
+
+Update 2014/12/08
 
 - Seamless Integration v3.0(PCI)
 
@@ -33,8 +38,9 @@ Installations for Seamless
 [FB APP Seamless Integration](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-FB-App-Seamless-Integration)
 
 [Seamless Integration v2.0.7](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v2.0.7)  
-
-[Seamless Integration v3.0(non-PCI)](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.0%28non-PCI%29)
+Seamless Integration (non-PCI):
+- [Version 3.1](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.1%28non-PCI%29)
+- [Version 3.0](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.0%28non-PCI%29)
 
 [Seamless Integration v3.0(PCI)](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.0%28PCI%29)
 
