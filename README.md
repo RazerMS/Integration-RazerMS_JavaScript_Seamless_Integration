@@ -10,7 +10,7 @@ Latest update 2015/06/04
 - Seamless Integration v3.1(non-PCI)
   - Fix popup blocker issue.
 
-update 2014/12/08
+Update 2014/12/08
 
 - Seamless Integration v3.0(PCI)
 
