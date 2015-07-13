@@ -7,7 +7,7 @@ Revision History
 ----------------
 Latest update 2015/07/09
 
-- Seamless Integration v3.29(non-PCI)
+- Seamless Integration v3.2(non-PCI)
 
   - New supporting channel (ATMVA, dragonpay, and paysbuy, Point-BCard).
 
