@@ -5,11 +5,11 @@ MOLPay Seamless Integration develop by MOLPay technical team.
 
 Revision History
 ----------------
-Latest update 2015/07/09
+Latest update 2015/07/29
 
 - Seamless Integration v3.2(non-PCI)
-
-  - New supporting channel (ATMVA, dragonpay, and paysbuy, Point-BCard).
+  
+  - New supporting channel (ATMVA, NGANLUONG, dragonpay, and paysbuy, Point-BCard).
 
 Update 2015/06/04
 
