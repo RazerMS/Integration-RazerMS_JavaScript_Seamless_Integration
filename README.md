@@ -5,7 +5,15 @@ MOLPay Seamless Integration develop by MOLPay technical team.
 
 Revision History
 ----------------
-Latest update 2015/07/29
+Latest update 2015/08/21
+
+- Seamless Integration v3.3(non-PCI)
+  
+  - Fix popup blocker issue for channel CIMB-Clicks.
+  - Changing overlay plugin from loadmask to blockUI.
+  - New supporting channel (crossborder).
+
+Update 2015/07/29
 
 - Seamless Integration v3.2(non-PCI)
   
@@ -45,6 +53,7 @@ Installations for Seamless
 
 [Seamless Integration v2.0.7](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v2.0.7)  
 Seamless Integration (non-PCI):
+- [Version 3.3](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.3-(non-PCI))
 - [Version 3.2](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.2-(non-PCI))
 - [Version 3.1](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.1%28non-PCI%29)
 - [Version 3.0](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.0%28non-PCI%29)
