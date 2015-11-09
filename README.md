@@ -5,7 +5,17 @@ MOLPay Seamless Integration develop by MOLPay technical team.
 
 Revision History
 ----------------
-Latest update 2015/08/21
+Latest update 2015/11/09
+- Seamless Integration v3.4(non-PCI)
+
+  - New supporting channel (``enetsD``).
+
+Update 2015/10/29
+- Seamless Integration v3.3(non-PCI)
+
+  - New supporting channel (``paypal``).
+
+Update 2015/08/21
 
 - Seamless Integration v3.3(non-PCI)
   
