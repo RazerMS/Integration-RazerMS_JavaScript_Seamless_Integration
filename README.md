@@ -5,6 +5,12 @@ MOLPay Seamless Integration develop by MOLPay technical team.
 
 Revision History
 ----------------
+Latest update 2016/04/01
+- Seamless Integration v3.6(non-PCI)
+
+	- Add new Payment Channel: China Union Pay
+	- Add new credit card payment with VisaCheckout
+
 Latest update 2015/11/25
 - Seamless Integration v3.5(non-PCI)
 
@@ -69,6 +75,7 @@ Installations for Seamless
 
 [Seamless Integration v2.0.7](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v2.0.7)  
 Seamless Integration (non-PCI):
+- [Version 3.6](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.6-(non-PCI))
 - [Version 3.5](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.5-(non-PCI))
 - [Version 3.4](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.4-(non-PCI))
 - [Version 3.3](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.3-(non-PCI))
