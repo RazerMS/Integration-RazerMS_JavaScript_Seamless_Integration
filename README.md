@@ -9,7 +9,7 @@ Latest update 2016/06/17
 - Seamless Integration v3.7(non-PCI)
 
 	- Add new Payment Channel: PEx+
-	- 
+	
 Latest update 2016/04/01
 - Seamless Integration v3.6(non-PCI)
 
