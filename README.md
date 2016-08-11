@@ -5,6 +5,11 @@ MOLPay Seamless Integration develop by MOLPay technical team.
 
 Revision History
 ----------------
+Latest update 2016/08/11
+- Seamless Integration v3.8(non-PCI)
+
+	- Add new Payment Channel: JOMPay & Cash-Esapay
+	
 Latest update 2016/06/17
 - Seamless Integration v3.7(non-PCI)
 
@@ -80,6 +85,7 @@ Installations for Seamless
 
 [Seamless Integration v2.0.7](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v2.0.7)  
 Seamless Integration (non-PCI):
+- [Version 3.8](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.8-(non-PCI))
 - [Version 3.7](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.7-(non-PCI))
 - [Version 3.6](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.6-(non-PCI))
 - [Version 3.5](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.5-(non-PCI))
