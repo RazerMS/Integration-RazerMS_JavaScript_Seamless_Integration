@@ -8,7 +8,7 @@ Revision History
 Latest update 2016/08/16
 - Seamless Integration v3.9(non-PCI)
 
-	- Add new Payment Channel: SCBPN,KTBPN,BBLPN,BAYPN,CASH
+	- Add new Payment Channel: Paysbuy SCBPN, Paysbuy KTBPN, Paysbuy BBLPN, Paysbuy BAYPN, Paysbuy CASH
 	
 Latest update 2016/08/11
 - Seamless Integration v3.8(non-PCI)
