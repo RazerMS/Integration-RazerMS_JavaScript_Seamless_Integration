@@ -5,6 +5,11 @@ MOLPay Seamless Integration develop by MOLPay technical team.
 
 Revision History
 ----------------
+Latest update 2016/09/21
+- Seamless Integration v3.10(non-PCI)
+
+	- Add new Payment Channel: FPX_OCBC, FPX_SCB, FPX_ABB
+
 Latest update 2016/08/16
 - Seamless Integration v3.9(non-PCI)
 
@@ -90,6 +95,7 @@ Installations for Seamless
 
 [Seamless Integration v2.0.7](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v2.0.7)  
 Seamless Integration (non-PCI):
+- [Version 3.10](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.10-(non-PCI))
 - [Version 3.9](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.9-(non-PCI))
 - [Version 3.8](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.8-(non-PCI))
 - [Version 3.7](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.7-(non-PCI))
