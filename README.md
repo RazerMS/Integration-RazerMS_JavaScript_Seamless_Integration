@@ -1,7 +1,15 @@
-MOLPay Seamless Integration
+MOLPay Seamless Integration 
 =====================
 
-MOLPay Seamless Integration develop by MOLPay technical team.
+MOLPay Seamless Integration offers better UX/UI during checkout to increase your conversion rate and reduce abandon or drop off rate. Buyer just need to click to popup the bank login page to proceed and authorize the payment without redirecting to MOLPay hosted payment page (better UX with lesser checkout step). Merchant or seller may customize their own look-and-feel on their checkout page (better and flexible UI).
+
+MOLPay Seamless Integration developed by MOLPay technical team.
+
+
+MOLPay无缝整合
+=====================
+
+MOLPay无缝整合为商家提供了更好的用户体验和使用者界面，使用者或用户只须点击银行LOGO按钮就可以弹出登入界面，用户便可以直接登入然后应允支付，所以整个购买支付流程更快捷，界面也可以又商家自订，已被许多成功商家证实为非常直接且灵活的支付整合方式。
 
 Revision History
 ----------------
