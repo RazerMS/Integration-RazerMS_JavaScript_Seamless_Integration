@@ -14,10 +14,16 @@ MOLPay无缝整合为商家提供了更好的用户体验和使用者界面，�
 Revision History
 ----------------
 Latest update 2017/03/06
-- Seamless Integration v3.10(non-PCI)
+- Seamless Integration v3.12(non-PCI)
 
 	- Add new Payment Channel: MyClear FPX B2B, FPX_B2B_ABB, FPX_B2B_AMB, FPX_B2B_BIMB, FPX_B2B_CIMB, FPX_B2B_HLB, FPX_B2B_HSBC, FPX_B2B_PBB, FPX_B2B_RHB, FPX_B2B_UOB, FPX_M2E, fpx_bsn, fpx_abmb, fpx_uob, fpx_bsn
+	- Implement fix to resolve social media in-app browser (IAB) issue.
 	
+Latest update 2016/11/10
+- Seamless Integration v3.11(non-PCI)
+
+	- Add new Payment Channel: VTC-Bank related channel, CASH-SAM
+
 Latest update 2016/09/21
 - Seamless Integration v3.10(non-PCI)
 
@@ -106,7 +112,6 @@ Installations for Seamless
 
 [FB APP Seamless Integration](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-FB-App-Seamless-Integration)
 
-[Seamless Integration v2.0.7](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v2.0.7)  
 Seamless Integration (non-PCI):
 - [Version 3.12](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.12-(non-PCI))
 - [Version 3.11](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.11-(non-PCI))
@@ -128,6 +133,9 @@ Seamless Integration (non-PCI):
 
 Issues
 ------------
+- Seamless Integration v3.12(non-PCI)
+
+	- Payment made from in-app browser (IAB) at Maybank2u, CIMB Clicks, Hong Leong Connect and AmBank will not return to the merchant website.
 
 Submit issue to this repository or email to our support@molpay.com
 
