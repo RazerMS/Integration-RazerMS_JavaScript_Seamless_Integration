@@ -123,10 +123,10 @@ Installations for Seamless
 [FB APP Seamless Integration](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-FB-App-Seamless-Integration)
 
 Seamless Integration (non-PCI):
-
 - [Latest Version (Auto update)](https://github.com/MOLPay/Seamless_Integration/wiki/Latest-MOLPay-Seamless-Integration-(non-PCI))
-
 - [Version 3.14](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.14-(non-PCI))
+
+Previous version:
 - [Version 3.13](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.13-(non-PCI))
 - [Version 3.12](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.12-(non-PCI))
 - [Version 3.11](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.11-(non-PCI))
