@@ -13,6 +13,16 @@ MOLPay无缝整合为商家提供了更好的用户体验和使用者界面，�
 
 Revision History
 ----------------
+Latest update 2017/05/16
+- Seamless Integration v3.14(non-PCI)
+
+	- Add new Payment Channel: CIMB-VA.
+	
+Latest update 2017/05/10
+- Seamless Integration v3.13(non-PCI)
+
+	- Add new Payment Channel: mbbezpay, Maybank EZ Pay, NL_VCB_ATM, NL_VCB_IB, NL_DAB_ATM, NL_DAB_IB, NL_TCB_ATM, NL_TCB_IB, NL_MB_ATM, NL_VIB_ATM, NL_ICB_ATM, NL_EXB_ATM, NL_ACB_ATM, NL_HDB_ATM, NL_MSB_ATM, NL_NVB_ATM, NL_VAB_ATM, NL_VPB_ATM, NL_SCB_ATM, NL_GPB_ATM, NL_AGB_ATM, NL_BIDV_ATM, NL_BIDV_IB, NL_OJB_ATM, NL_PGB_ATM, NL_SHB_ATM, NL_TPB_ATM, NL_NAB_ATM, NL_SGB_ATM.
+	
 Latest update 2017/03/06
 - Seamless Integration v3.12(non-PCI)
 
@@ -113,6 +123,8 @@ Installations for Seamless
 [FB APP Seamless Integration](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-FB-App-Seamless-Integration)
 
 Seamless Integration (non-PCI):
+- [Version 3.14](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.14-(non-PCI))
+- [Version 3.13](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.13-(non-PCI))
 - [Version 3.12](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.12-(non-PCI))
 - [Version 3.11](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.11-(non-PCI))
 - [Version 3.10](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.10-(non-PCI))
