@@ -13,6 +13,11 @@ MOLPay无缝整合为商家提供了更好的用户体验和使用者界面，�
 
 Revision History
 ----------------
+Latest update 2017/05/18
+- Seamless Integration v3.15(non-PCI)
+
+	- Add new Payment Channel: FPX_HSBC.
+	
 Latest update 2017/05/16
 - Seamless Integration v3.14(non-PCI)
 
@@ -124,9 +129,10 @@ Installations for Seamless
 
 Seamless Integration (non-PCI):
 - [Latest Version (Auto update)](https://github.com/MOLPay/Seamless_Integration/wiki/Latest-MOLPay-Seamless-Integration-(non-PCI))
-- [Version 3.14](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.14-(non-PCI))
+- [Version 3.15](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.15-(non-PCI))
 
 Previous version:
+- [Version 3.14](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.14-(non-PCI))
 - [Version 3.13](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.13-(non-PCI))
 - [Version 3.12](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.12-(non-PCI))
 - [Version 3.11](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.11-(non-PCI))
