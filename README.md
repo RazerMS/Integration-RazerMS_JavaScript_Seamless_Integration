@@ -32,7 +32,7 @@ Latest update 2017/03/06
 - Seamless Integration v3.12(non-PCI)
 
 	- Add new Payment Channel: MyClear FPX B2B, FPX_B2B_ABB, FPX_B2B_AMB, FPX_B2B_BIMB, FPX_B2B_CIMB, FPX_B2B_HLB, FPX_B2B_HSBC, FPX_B2B_PBB, FPX_B2B_RHB, FPX_B2B_UOB, FPX_M2E, fpx_bsn, fpx_abmb, fpx_uob, fpx_bsn
-	- Implement fix to resolve social media in-app browser (IAB) bank redirection issue.
+	- Implement fix to resolve blank page on social media in-app browser (IAB) when redirect to bank page.
 	
 Latest update 2016/11/10
 - Seamless Integration v3.11(non-PCI)
@@ -154,7 +154,7 @@ Previous version:
 
 Issues
 ------------
-- Seamless Integration v3.12(non-PCI)
+- From Seamless Integration v3.12(non-PCI) -> Latest
 
 	- Payment made from in-app browser (IAB) at Maybank2u, CIMB Clicks, Hong Leong Connect and AmBank will not return to the merchant website.
 
