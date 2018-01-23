@@ -13,6 +13,9 @@ MOLPay无缝整合为商家提供了更好的用户体验和使用者界面，�
 
 Revision History
 ----------------
+Latest update 2018/01/23
+- added sandbox demo URL and example file
+
 Latest update 2017/06/14
 - Seamless Integration v3.16(non-PCI)
 
@@ -133,7 +136,7 @@ Installations for Seamless
 [FB APP Seamless Integration](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-FB-App-Seamless-Integration)
 
 Seamless Integration (non-PCI):
-- [Latest Version (Auto update)](https://github.com/MOLPay/Seamless_Integration/wiki/Latest-MOLPay-Seamless-Integration-(non-PCI))
+- [Latest Version (Auto update)](https://github.com/MOLPay/Seamless_Integration/wiki/Latest-MOLPay-Seamless-Integration-(non-PCI)) **Update: 23/01/2018** - added sandbox documentation/sample file
 - [Version 3.16](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.16-(non-PCI))
 
 Previous version:
