@@ -13,6 +13,11 @@ MOLPay无缝整合为商家提供了更好的用户体验和使用者界面，�
 
 Revision History
 ----------------
+Latest update 2018/04/02
+- Seamless Integration v3.17(non-PCI)
+
+	- Add new Payment Channel: SafeCharge, Artajasa, RHB-MIGS, BAY_IB
+	
 Latest update 2018/01/23
 - added sandbox demo URL and example file
 
@@ -137,9 +142,10 @@ Installations for Seamless
 
 Seamless Integration (non-PCI):
 - [Latest Version (Auto update)](https://github.com/MOLPay/Seamless_Integration/wiki/Latest-MOLPay-Seamless-Integration-(non-PCI)) **Update: 23/01/2018** - added sandbox documentation/sample file
-- [Version 3.16](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.16-(non-PCI))
+- [Version 3.17](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.17-(non-PCI))
 
 Previous version:
+- [Version 3.16](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.16-(non-PCI))
 - [Version 3.15](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.15-(non-PCI))
 - [Version 3.14](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.14-(non-PCI))
 - [Version 3.13](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.13-(non-PCI))
