@@ -16,7 +16,7 @@ Revision History
 Latest update 2018/04/03
 - Seamless Integration v3.17(non-PCI)
 
-	- Add new Payment Channel: SafeCharge, Artajasa, RHB-MIGS, BAY_IB
+	- Add new Payment Channel: Artajasa, RHB-MIGS, BAY_IB
 	
 Latest update 2018/01/23
 - added sandbox demo URL and example file
