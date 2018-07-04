@@ -15,6 +15,11 @@ MOLPay无缝整合为商家提供了更好的用户体验和使用者界面，�
 
 Revision History
 ----------------
+Latest update 2018/07/04
+- Seamless Integration v3.18(non-PCI)
+
+	- Add new Payment Channel: BOOST
+
 Latest update 2018/04/03
 - Seamless Integration v3.17(non-PCI)
 
