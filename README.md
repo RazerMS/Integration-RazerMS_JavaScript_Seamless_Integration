@@ -149,9 +149,10 @@ Installations for Seamless
 
 Seamless Integration (non-PCI):
 - [Latest Version (Auto update)](https://github.com/MOLPay/Seamless_Integration/wiki/Latest-MOLPay-Seamless-Integration-(non-PCI)) **Update: 23/01/2018** - added sandbox documentation/sample file
-- [Version 3.17](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.17-(non-PCI))
+- [Version 3.18](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.18-(non-PCI))
 
 Previous version:
+- [Version 3.17](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.17-(non-PCI))
 - [Version 3.16](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.16-(non-PCI))
 - [Version 3.15](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.15-(non-PCI))
 - [Version 3.14](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.14-(non-PCI))
