@@ -15,83 +15,88 @@ MOLPay无缝整合为商家提供了更好的用户体验和使用者界面，�
 
 Revision History
 ----------------
-Latest update 2018/07/04
+Update 2018/11/30
+- Seamless Integration v3.19(non-PCI)
+
+	- Add new Payment Channel: BigC
+
+Update 2018/07/04
 - Seamless Integration v3.18(non-PCI)
 
 	- Add new Payment Channel: BOOST
 
-Latest update 2018/04/03
+Update 2018/04/03
 - Seamless Integration v3.17(non-PCI)
 
 	- Add new Payment Channel: Artajasa, RHB-MIGS, BAY_IB, creditO
 	
-Latest update 2018/01/23
+Update 2018/01/23
 - added sandbox demo URL and example file
 
-Latest update 2017/06/14
+Update 2017/06/14
 - Seamless Integration v3.16(non-PCI)
 
 	- Add new Payment Channel: FPX_B2B_KFH, FPX_B2B_DEUTSCHE, FPX_B2B_ABMB, FPX_B2B_SCB, FPX_B2B_OCBC, FPX_B2B_BMMB.
 	
-Latest update 2017/05/18
+Update 2017/05/18
 - Seamless Integration v3.15(non-PCI)
 
 	- Add new Payment Channel: FPX_HSBC.
 	
-Latest update 2017/05/16
+Update 2017/05/16
 - Seamless Integration v3.14(non-PCI)
 
 	- Add new Payment Channel: CIMB-VA.
 	
-Latest update 2017/05/10
+Update 2017/05/10
 - Seamless Integration v3.13(non-PCI)
 
 	- Add new Payment Channel: mbbezpay, Maybank EZ Pay, NL_VCB_ATM, NL_VCB_IB, NL_DAB_ATM, NL_DAB_IB, NL_TCB_ATM, NL_TCB_IB, NL_MB_ATM, NL_VIB_ATM, NL_ICB_ATM, NL_EXB_ATM, NL_ACB_ATM, NL_HDB_ATM, NL_MSB_ATM, NL_NVB_ATM, NL_VAB_ATM, NL_VPB_ATM, NL_SCB_ATM, NL_GPB_ATM, NL_AGB_ATM, NL_BIDV_ATM, NL_BIDV_IB, NL_OJB_ATM, NL_PGB_ATM, NL_SHB_ATM, NL_TPB_ATM, NL_NAB_ATM, NL_SGB_ATM.
 	
-Latest update 2017/03/06
+Update 2017/03/06
 - Seamless Integration v3.12(non-PCI)
 
 	- Add new Payment Channel: MyClear FPX B2B, FPX_B2B_ABB, FPX_B2B_AMB, FPX_B2B_BIMB, FPX_B2B_CIMB, FPX_B2B_HLB, FPX_B2B_HSBC, FPX_B2B_PBB, FPX_B2B_RHB, FPX_B2B_UOB, FPX_M2E, fpx_bsn, fpx_abmb, fpx_uob, fpx_bsn
 	- Implement fix to resolve blank page on social media in-app browser (IAB) when redirect to bank page.
 	
-Latest update 2016/11/10
+Update 2016/11/10
 - Seamless Integration v3.11(non-PCI)
 
 	- Add new Payment Channel: VTC-Bank related channel, CASH-SAM
 
-Latest update 2016/09/21
+Update 2016/09/21
 - Seamless Integration v3.10(non-PCI)
 
 	- Add new Payment Channel: FPX_OCBC, FPX_SCB, FPX_ABB
 
-Latest update 2016/08/16
+Update 2016/08/16
 - Seamless Integration v3.9(non-PCI)
 
 	- Add new Payment Channel: Paysbuy SCBPN, Paysbuy KTBPN, Paysbuy BBLPN, Paysbuy BAYPN, Paysbuy CASH
 	
-Latest update 2016/08/11
+Update 2016/08/11
 - Seamless Integration v3.8(non-PCI)
 
 	- Add new Payment Channel: JOMPay & Cash-Esapay
 	
-Latest update 2016/06/17
+Update 2016/06/17
 - Seamless Integration v3.7(non-PCI)
 
 	- Add new Payment Channel: PEx+
 	
-Latest update 2016/04/01
+Update 2016/04/01
 - Seamless Integration v3.6(non-PCI)
 
 	- Add new Payment Channel: China Union Pay
 	- Add new credit card payment with VisaCheckout
 
-Latest update 2015/11/25
+Update 2015/11/25
 - Seamless Integration v3.5(non-PCI)
 
 	- Implement Payment Timer.
 	- Fix popup issue on iOS 9.*
 
-Latest update 2015/11/09
+Update 2015/11/09
 - Seamless Integration v3.4(non-PCI)
 
   - New supporting channel (``enetsD``).
@@ -149,9 +154,10 @@ Installations for Seamless
 
 Seamless Integration (non-PCI):
 - [Latest Version (Auto update)](https://github.com/MOLPay/Seamless_Integration/wiki/Latest-MOLPay-Seamless-Integration-(non-PCI)) **Update: 23/01/2018** - added sandbox documentation/sample file
-- [Version 3.18](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.18-(non-PCI))
+- [Version 3.19](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.19-(non-PCI))
 
 Previous version:
+- [Version 3.18](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.18-(non-PCI))
 - [Version 3.17](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.17-(non-PCI))
 - [Version 3.16](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.16-(non-PCI))
 - [Version 3.15](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.15-(non-PCI))
