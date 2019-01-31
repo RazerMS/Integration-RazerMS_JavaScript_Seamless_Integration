@@ -15,6 +15,11 @@ MOLPay无缝整合为商家提供了更好的用户体验和使用者界面，�
 
 Revision History
 ----------------
+Update 2019/01/30
+- Seamless Integration v3.20(non-PCI)
+
+	- Add new Payment Channel: KBANK_PayPlus
+
 Update 2018/11/30
 - Seamless Integration v3.19(non-PCI)
 
@@ -153,10 +158,11 @@ Installations for Seamless
 [FB APP Seamless Integration](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-FB-App-Seamless-Integration)
 
 Seamless Integration (non-PCI):
-- [Latest Version (Auto update)](https://github.com/MOLPay/Seamless_Integration/wiki/Latest-MOLPay-Seamless-Integration-(non-PCI)) **Update: 30/11/2018** - Add new Payment Channel: BigC
-- [Version 3.19](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.19-(non-PCI))
+- [Latest Version (Auto update)](https://github.com/MOLPay/Seamless_Integration/wiki/Latest-MOLPay-Seamless-Integration-(non-PCI)) **Update: 30/01/2019** - Add new Payment Channel: KBANK_PayPlus
+- [Version 3.20](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.20-(non-PCI))
 
 Previous version:
+- [Version 3.19](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.19-(non-PCI))
 - [Version 3.18](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.18-(non-PCI))
 - [Version 3.17](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.17-(non-PCI))
 - [Version 3.16](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.16-(non-PCI))
