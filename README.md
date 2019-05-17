@@ -193,13 +193,13 @@ Issues
 
 	- Payment made from in-app browser (IAB) at Maybank2u, CIMB Clicks, Hong Leong Connect and AmBank will not return to the merchant website.
 
-Submit issue to this repository or email to our support@molpay.com
+Submit issue to this repository or email to our support-sa@razer.com
 
 
 Support
 -------
 
-Merchant Technical Support / Customer Care : support@molpay.com <br>
+Merchant Technical Support / Customer Care : support-sa@razer.com <br>
 Sales/Reseller Enquiry : sales@molpay.com <br>
 Marketing Campaign : marketing@molpay.com <br>
 Channel/Partner Enquiry : channel@molpay.com <br>
