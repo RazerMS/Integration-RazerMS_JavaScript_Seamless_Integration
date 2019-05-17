@@ -1,17 +1,17 @@
-MOLPay Seamless Integration 
+Razer Merchant Services Seamless Integration 
 
 <img src="https://user-images.githubusercontent.com/38641542/39343401-36857982-4a0f-11e8-8a6b-3d0f28133745.jpg">
 =====================
 
-MOLPay Seamless Integration offers better UX/UI during checkout to increase your conversion rate and reduce abandon or drop off rate. Buyer just need to click to popup the bank login page to proceed and authorize the payment without redirecting to MOLPay hosted payment page (better UX with lesser checkout step). Merchant or seller may customize their own look-and-feel on their checkout page (better and flexible UI).
+Razer Merchant Services Seamless Integration offers better UX/UI during checkout to increase your conversion rate and reduce abandon or drop off rate. Buyer just need to click to popup the bank login page to proceed and authorize the payment without redirecting to Razer Merchant Services hosted payment page (better UX with lesser checkout step). Merchant or seller may customize their own look-and-feel on their checkout page (better and flexible UI).
 
-MOLPay Seamless Integration developed by MOLPay technical team.
+Razer Merchant Services Seamless Integration developed by Razer Merchant Services technical team.
 
 
-MOLPay无缝整合
+Razer Merchant Services无缝整合
 =====================
 
-MOLPay无缝整合为商家提供了更好的用户体验和使用者界面，用户只须点击银行LOGO按钮就可以弹出登入界面，然后便可以直接登入应允支付，整个购买支付流程更快捷方便，界面也可以由商家自订，已被许多成功商家证实为非常简易且灵活的支付整合方式。
+Razer Merchant Services无缝整合为商家提供了更好的用户体验和使用者界面，用户只须点击银行LOGO按钮就可以弹出登入界面，然后便可以直接登入应允支付，整个购买支付流程更快捷方便，界面也可以由商家自订，已被许多成功商家证实为非常简易且灵活的支付整合方式。
 
 Revision History
 ----------------
@@ -158,8 +158,8 @@ Installations for Seamless
 [FB APP Seamless Integration](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-FB-App-Seamless-Integration)
 
 Seamless Integration (non-PCI):
-- [Latest Version (Auto update)](https://github.com/MOLPay/Seamless_Integration/wiki/Latest-MOLPay-Seamless-Integration-(non-PCI)) **Update: 30/01/2019** - Add new Payment Channel: KBANK_PayPlus
-- [Version 3.20](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.20-(non-PCI))
+- [Latest Version (Auto update)](https://github.com/MOLPay/Seamless_Integration/wiki/Latest-Razer-Merchant-Services-Seamless-Integration-(non-PCI)) **Update: 30/01/2019** - Add new Payment Channel: KBANK_PayPlus
+- [Version 3.20](https://github.com/MOLPay/Seamless_Integration/wiki/Razer-Merchant-Services-Seamless-Integration-v3.20-(non-PCI))
 
 Previous version:
 - [Version 3.19](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.19-(non-PCI))
