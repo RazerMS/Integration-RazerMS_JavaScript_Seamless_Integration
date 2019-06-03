@@ -1,6 +1,6 @@
 Razer Merchant Services Seamless Integration 
 
-<img src="https://user-images.githubusercontent.com/38641542/39343401-36857982-4a0f-11e8-8a6b-3d0f28133745.jpg">
+<img src="https://user-images.githubusercontent.com/38641542/58777356-976aed80-8600-11e9-9cdf-1764c68e888b.jpg">
 =====================
 
 Razer Merchant Services Seamless Integration offers better UX/UI during checkout to increase your conversion rate and reduce abandon or drop off rate. Buyer just need to click to popup the bank login page to proceed and authorize the payment without redirecting to Razer Merchant Services hosted payment page (better UX with lesser checkout step). Merchant or seller may customize their own look-and-feel on their checkout page (better and flexible UI).
