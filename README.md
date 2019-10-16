@@ -163,7 +163,7 @@ Installations for Seamless
 [FB APP Seamless Integration](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-FB-App-Seamless-Integration)
 
 Seamless Integration (non-PCI):
-- [Latest Version (Auto update)](https://github.com/MOLPay/Seamless_Integration/wiki/Latest-Razer-Merchant-Services-Seamless-Integration-(non-PCI)) **Update: 16/10/2019** - Add new Payment Channel: RazerPay,GrabPay,Maybank QRPay, Alipay Pre-auth
+- [Latest Version (Auto update)](https://github.com/MOLPay/Seamless_Integration/wiki/Latest-Razer-Merchant-Services-Seamless-Integration-(non-PCI)) **Update: 30/01/2019** - KBANK_PayPlus
 - [Version 3.21](https://github.com/MOLPay/Seamless_Integration/wiki/Razer-Merchant-Services-Seamless-Integration-v3.21-(non-PCI))
 
 Previous version:
