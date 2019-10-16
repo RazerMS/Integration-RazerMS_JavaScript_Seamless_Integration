@@ -15,6 +15,11 @@ Razer Merchant Services无缝整合为商家提供了更好的用户体验和使
 
 Revision History
 ----------------
+Update 2019/10/16
+- Seamless Integration v3.21(non-PCI)
+
+	- Add new Payment Channel: RazerPay,GrabPay,Maybank QRPay, Alipay Pre-auth
+
 Update 2019/01/30
 - Seamless Integration v3.20(non-PCI)
 
@@ -158,10 +163,11 @@ Installations for Seamless
 [FB APP Seamless Integration](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-FB-App-Seamless-Integration)
 
 Seamless Integration (non-PCI):
-- [Latest Version (Auto update)](https://github.com/MOLPay/Seamless_Integration/wiki/Latest-Razer-Merchant-Services-Seamless-Integration-(non-PCI)) **Update: 30/01/2019** - Add new Payment Channel: KBANK_PayPlus
-- [Version 3.20](https://github.com/MOLPay/Seamless_Integration/wiki/Razer-Merchant-Services-Seamless-Integration-v3.20-(non-PCI))
+- [Latest Version (Auto update)](https://github.com/MOLPay/Seamless_Integration/wiki/Latest-Razer-Merchant-Services-Seamless-Integration-(non-PCI)) **Update: 16/10/2019** - Add new Payment Channel: RazerPay,GrabPay,Maybank QRPay, Alipay Pre-auth
+- [Version 3.21](https://github.com/MOLPay/Seamless_Integration/wiki/Razer-Merchant-Services-Seamless-Integration-v3.21-(non-PCI))
 
 Previous version:
+- [Version 3.20](https://github.com/MOLPay/Seamless_Integration/wiki/Razer-Merchant-Services-Seamless-Integration-v3.20-(non-PCI))
 - [Version 3.19](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.19-(non-PCI))
 - [Version 3.18](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.18-(non-PCI))
 - [Version 3.17](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.17-(non-PCI))
