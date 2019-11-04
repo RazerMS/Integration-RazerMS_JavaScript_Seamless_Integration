@@ -18,7 +18,7 @@ Revision History
 Update 2019/10/16
 - Seamless Integration v3.21(non-PCI)
 
-	- Add new Payment Channel: RazerPay,GrabPay,Maybank QRPay, Alipay Pre-auth, ESUN Cash711, ESUN Cash FamilyMart, ESUN ATM  	    and ESUN Cash Hi-Life	
+	- Add new Payment Channel: RazerPay,GrabPay,Maybank QRPay, Alipay Pre-auth	
 
 Update 2019/01/30
 - Seamless Integration v3.20(non-PCI)
