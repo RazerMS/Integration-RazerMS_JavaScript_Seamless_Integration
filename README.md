@@ -15,6 +15,11 @@ Razer Merchant Services无缝整合为商家提供了更好的用户体验和使
 
 Revision History
 ----------------
+Update 2019/11/29
+- Seamless Integration v3.21(non-PCI)
+
+	- Add new Payment Channel: ESUN_Cash711, ESUN_CashFamilyMart, ESUN_ATM, ESUN_CashHiLife	
+	
 Update 2019/10/16
 - Seamless Integration v3.21(non-PCI)
 
