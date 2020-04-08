@@ -15,6 +15,11 @@ Razer Merchant Services无缝整合为商家提供了更好的用户体验和使
 
 Revision History
 ----------------
+Update 2020/04/02
+- Seamless Integration v3.23(non-PCI)
+
+	- Add fingerprint
+	
 Update 2019/11/29
 - Seamless Integration v3.21(non-PCI)
 
@@ -169,9 +174,10 @@ Installations for Seamless
 
 Seamless Integration (non-PCI):
 - [Latest Version (Auto update)](https://github.com/MOLPay/Seamless_Integration/wiki/Latest-Razer-Merchant-Services-Seamless-Integration-(non-PCI)) **Update: 30/01/2019** - KBANK_PayPlus
-- [Version 3.21](https://github.com/MOLPay/Seamless_Integration/wiki/Razer-Merchant-Services-Seamless-Integration-v3.21-(non-PCI))
+- [Version 3.23](https://github.com/MOLPay/Seamless_Integration/wiki/Razer-Merchant-Services-Seamless-Integration-v3.23-(non-PCI))
 
 Previous version:
+- [Version 3.21](https://github.com/MOLPay/Seamless_Integration/wiki/Razer-Merchant-Services-Seamless-Integration-v3.21-(non-PCI))
 - [Version 3.20](https://github.com/MOLPay/Seamless_Integration/wiki/Razer-Merchant-Services-Seamless-Integration-v3.20-(non-PCI))
 - [Version 3.19](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.19-(non-PCI))
 - [Version 3.18](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Integration-v3.18-(non-PCI))
@@ -198,7 +204,7 @@ Previous version:
 
 
 
-Issues
+Known Issues
 ------------
 - From Seamless Integration v3.12(non-PCI) -> Latest
 
