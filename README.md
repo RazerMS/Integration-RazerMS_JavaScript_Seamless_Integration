@@ -15,6 +15,11 @@ Razer Merchant Services无缝整合为商家提供了更好的用户体验和使
 
 Revision History
 ----------------
+Update 2021/07/01
+- Seamless Integration v3.28(non-PCI)
+
+	- Add new Payment Channel: Rely-PW, enetsD_DBS, enetsD_UOB, enetsD_CITIBank, enetsD_OCBC, enetsD_SCB, PN_BT_BPI, PN_BT_UBP, PN_GCASH, PN_COINS, PN_GRABPAY, Crypto_tripleA
+
 Update 2020/10/14
 - Seamless Integration v3.26(non-PCI)
 
@@ -179,9 +184,10 @@ Installations for Seamless
 
 Seamless Integration (non-PCI):
 - [Latest Version (Auto update)](https://github.com/MOLPay/Seamless_Integration/wiki/Latest-Razer-Merchant-Services-Seamless-Integration-(non-PCI)) **Update: 30/01/2019** - KBANK_PayPlus
-- [Version 3.26](https://github.com/RazerMS/Seamless_Integration/wiki/Razer-Merchant-Services-Seamless-Integration-v3.26-(non-PCI))
+- [Version 3.28](https://github.com/RazerMS/Seamless_Integration/wiki/Razer-Merchant-Services-Seamless-Integration-v3.28-(non-PCI))
 
 Previous version:
+- [Version 3.26](https://github.com/RazerMS/Seamless_Integration/wiki/Razer-Merchant-Services-Seamless-Integration-v3.26-(non-PCI))
 - [Version 3.23](https://github.com/MOLPay/Seamless_Integration/wiki/Razer-Merchant-Services-Seamless-Integration-v3.23-(non-PCI))
 - [Version 3.21](https://github.com/MOLPay/Seamless_Integration/wiki/Razer-Merchant-Services-Seamless-Integration-v3.21-(non-PCI))
 - [Version 3.20](https://github.com/MOLPay/Seamless_Integration/wiki/Razer-Merchant-Services-Seamless-Integration-v3.20-(non-PCI))
