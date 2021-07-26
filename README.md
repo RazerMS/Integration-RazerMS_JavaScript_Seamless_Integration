@@ -188,10 +188,11 @@ Installations for Seamless
 [FB APP Seamless Integration](https://github.com/RazerMS/Seamless_Integration/wiki/Razer-Merchant-Services-FB-App-Seamless-Integration)
 
 Seamless Integration (non-PCI):
-- [Latest Version (Auto update)](https://github.com/RazerMS/Seamless_Integration/wiki/Latest-Razer-Merchant-Services-Seamless-Integration-(non-PCI)) **Update: 30/01/2019** - KBANK_PayPlus
-- [Version 3.28](https://github.com/RazerMS/Seamless_Integration/wiki/Razer-Merchant-Services-Seamless-Integration-v3.28-(non-PCI))
+- [Latest Version (Auto update)](https://github.com/RazerMS/Seamless_Integration/wiki/Latest-Razer-Merchant-Services-Seamless-Integration-(non-PCI)) **Update: 30/01/2019** - PayNow
+- [Version 3.29](https://github.com/RazerMS/Seamless_Integration/wiki/Razer-Merchant-Services-Seamless-Integration-v3.29-(non-PCI))
 
 Previous version:
+- [Version 3.28](https://github.com/RazerMS/Seamless_Integration/wiki/Razer-Merchant-Services-Seamless-Integration-v3.28-(non-PCI))
 - [Version 3.26](https://github.com/RazerMS/Seamless_Integration/wiki/Razer-Merchant-Services-Seamless-Integration-v3.26-(non-PCI))
 - [Version 3.23](https://github.com/RazerMS/Seamless_Integration/wiki/Razer-Merchant-Services-Seamless-Integration-v3.23-(non-PCI))
 - [Version 3.21](https://github.com/RazerMS/Seamless_Integration/wiki/Razer-Merchant-Services-Seamless-Integration-v3.21-(non-PCI))
