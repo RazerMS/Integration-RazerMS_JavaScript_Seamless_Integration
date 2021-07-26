@@ -188,7 +188,7 @@ Installations for Seamless
 [FB APP Seamless Integration](https://github.com/RazerMS/Seamless_Integration/wiki/Razer-Merchant-Services-FB-App-Seamless-Integration)
 
 Seamless Integration (non-PCI):
-- [Latest Version (Auto update)](https://github.com/RazerMS/Seamless_Integration/wiki/Latest-Razer-Merchant-Services-Seamless-Integration-(non-PCI)) **Update: 30/01/2019** - PayNow
+- [Latest Version (Auto update)](https://github.com/RazerMS/Seamless_Integration/wiki/Latest-Razer-Merchant-Services-Seamless-Integration-(non-PCI)) **Update: 26/07/2021** - PayNow
 - [Version 3.29](https://github.com/RazerMS/Seamless_Integration/wiki/Razer-Merchant-Services-Seamless-Integration-v3.29-(non-PCI))
 
 Previous version:
