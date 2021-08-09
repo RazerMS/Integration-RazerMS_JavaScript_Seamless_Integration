@@ -16,7 +16,7 @@ Razer Merchant Services无缝整合为商家提供了更好的用户体验和使
 Revision History
 ----------------
 Update 2021/07/26
-- Seamless Integration v3.29(non-PCI)
+- Seamless Integration v3.28(non-PCI)
 
 	- Add new Payment Channel: PayNow
 
