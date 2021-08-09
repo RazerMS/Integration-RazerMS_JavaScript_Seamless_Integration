@@ -15,6 +15,11 @@ Razer Merchant Services无缝整合为商家提供了更好的用户体验和使
 
 Revision History
 ----------------
+Update 2021/08/09
+- Seamless Integration v3.28(non-PCI)
+
+	- Add new Payment Channel: RPP_DuitNowQR
+
 Update 2021/07/26
 - Seamless Integration v3.28(non-PCI)
 
@@ -188,7 +193,7 @@ Installations for Seamless
 [FB APP Seamless Integration](https://github.com/RazerMS/Seamless_Integration/wiki/Razer-Merchant-Services-FB-App-Seamless-Integration)
 
 Seamless Integration (non-PCI):
-- [Latest Version (Auto update)](https://github.com/RazerMS/Seamless_Integration/wiki/Latest-Razer-Merchant-Services-Seamless-Integration-(non-PCI)) **Update: 26/07/2021** - PayNow
+- [Latest Version (Auto update)](https://github.com/RazerMS/Seamless_Integration/wiki/Latest-Razer-Merchant-Services-Seamless-Integration-(non-PCI)) **Update: 09/08/2021** - RPP_DuitNowQR
 - [Version 3.28](https://github.com/RazerMS/Seamless_Integration/wiki/Razer-Merchant-Services-Seamless-Integration-v3.28-(non-PCI))
 
 Previous version:
