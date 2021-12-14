@@ -198,7 +198,7 @@ Installations for Seamless
 [FB APP Seamless Integration](https://github.com/RazerMS/Seamless_Integration/wiki/Razer-Merchant-Services-FB-App-Seamless-Integration)
 
 Seamless Integration (non-PCI):
-- [Latest Version (Auto update)](https://github.com/RazerMS/Seamless_Integration/wiki/Latest-Razer-Merchant-Services-Seamless-Integration-(non-PCI)) **Update: 09/08/2021** - RPP_DuitNowQR
+- [Latest Version (Auto update)](https://github.com/RazerMS/Seamless_Integration/wiki/Latest-Razer-Merchant-Services-Seamless-Integration-(non-PCI)) **Update: 14/12/2021** - AlipayPlus
 - [Version 3.28](https://github.com/RazerMS/Seamless_Integration/wiki/Razer-Merchant-Services-Seamless-Integration-v3.28-(non-PCI))
 
 Previous version:
