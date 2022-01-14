@@ -245,7 +245,7 @@ Support
 
 Merchant Technical Support / Customer Care : support-sa@razer.com <br>
 Sales/Reseller Enquiry : sales-sa@razer.com <br>
-Marketing Campaign : marketing-sa@razeer.com <br>
+Marketing Campaign : marketing-sa@razer.com <br>
 Channel/Partner Enquiry : channel-sa@razer.com <br>
 Media Contact : media-sa@razer.com <br>
 R&D and Tech-related Suggestion : technical-sa@razer.com <br>
