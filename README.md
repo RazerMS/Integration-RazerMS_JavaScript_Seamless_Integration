@@ -1,4 +1,4 @@
-Razer Merchant Services Seamless Integration 
+# [Integration] – RazerMS JavaScript Seamless Integration
 
 <img src="https://user-images.githubusercontent.com/38641542/74420622-b6579a00-4e86-11ea-838d-f7d741743d0f.jpg">
 =====================
