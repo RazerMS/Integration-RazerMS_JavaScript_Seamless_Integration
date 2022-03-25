@@ -34,35 +34,6 @@ Seamless Integration (non-PCI):
 - [Latest Version (Auto update)](https://github.com/RazerMS/Seamless_Integration/wiki/Latest-Razer-Merchant-Services-Seamless-Integration-(non-PCI)) **Update: 14/12/2021** - AlipayPlus
 - [Version 3.28](https://github.com/RazerMS/Seamless_Integration/wiki/Razer-Merchant-Services-Seamless-Integration-v3.28-(non-PCI))
 
-Previous version:
-- [Version 3.26](https://github.com/RazerMS/Seamless_Integration/wiki/Razer-Merchant-Services-Seamless-Integration-v3.26-(non-PCI))
-- [Version 3.23](https://github.com/RazerMS/Seamless_Integration/wiki/Razer-Merchant-Services-Seamless-Integration-v3.23-(non-PCI))
-- [Version 3.21](https://github.com/RazerMS/Seamless_Integration/wiki/Razer-Merchant-Services-Seamless-Integration-v3.21-(non-PCI))
-- [Version 3.20](https://github.com/RazerMS/Seamless_Integration/wiki/Razer-Merchant-Services-Seamless-Integration-v3.20-(non-PCI))
-- [Version 3.19](https://github.com/RazerMS/Seamless_Integration/wiki/RazerMS-Seamless-Integration-v3.19-(non-PCI))
-- [Version 3.18](https://github.com/RazerMS/Seamless_Integration/wiki/RazerMS-Seamless-Integration-v3.18-(non-PCI))
-- [Version 3.17](https://github.com/RazerMS/Seamless_Integration/wiki/RazerMS-Seamless-Integration-v3.17-(non-PCI))
-- [Version 3.16](https://github.com/RazerMS/Seamless_Integration/wiki/RazerMS-Seamless-Integration-v3.16-(non-PCI))
-- [Version 3.15](https://github.com/RazerMS/Seamless_Integration/wiki/RazerMS-Seamless-Integration-v3.15-(non-PCI))
-- [Version 3.14](https://github.com/RazerMS/Seamless_Integration/wiki/RazerMS-Seamless-Integration-v3.14-(non-PCI))
-- [Version 3.13](https://github.com/RazerMS/Seamless_Integration/wiki/RazerMS-Seamless-Integration-v3.13-(non-PCI))
-- [Version 3.12](https://github.com/RazerMS/Seamless_Integration/wiki/RazerMS-Seamless-Integration-v3.12-(non-PCI))
-- [Version 3.11](https://github.com/RazerMS/Seamless_Integration/wiki/RazerMS-Seamless-Integration-v3.11-(non-PCI))
-- [Version 3.10](https://github.com/RazerMS/Seamless_Integration/wiki/RazerMS-Seamless-Integration-v3.10-(non-PCI))
-- [Version 3.9](https://github.com/RazerMS/Seamless_Integration/wiki/RazerMS-Seamless-Integration-v3.9-(non-PCI))
-- [Version 3.8](https://github.com/RazerMS/Seamless_Integration/wiki/RazerMS-Seamless-Integration-v3.8-(non-PCI))
-- [Version 3.7](https://github.com/RazerMS/Seamless_Integration/wiki/RazerMS-Seamless-Integration-v3.7-(non-PCI))
-- [Version 3.6](https://github.com/RazerMS/Seamless_Integration/wiki/RazerMS-Seamless-Integration-v3.6-(non-PCI))
-- [Version 3.5](https://github.com/RazerMS/Seamless_Integration/wiki/RazerMS-Seamless-Integration-v3.5-(non-PCI))
-- [Version 3.4](https://github.com/RazerMS/Seamless_Integration/wiki/RazerMS-Seamless-Integration-v3.4-(non-PCI))
-- [Version 3.3](https://github.com/RazerMS/Seamless_Integration/wiki/RazerMS-Seamless-Integration-v3.3-(non-PCI))
-- [Version 3.2](https://github.com/RazerMS/Seamless_Integration/wiki/RazerMS-Seamless-Integration-v3.2-(non-PCI))
-- [Version 3.1](https://github.com/RazerMS/Seamless_Integration/wiki/RazerMS-Seamless-Integration-v3.1%28non-PCI%29)
-- [Version 3.0](https://github.com/RazerMS/Seamless_Integration/wiki/RazerMS-Seamless-Integration-v3.0%28non-PCI%29)
-
-[Seamless Integration v3.0(PCI)](https://github.com/RazerMS/Seamless_Integration/wiki/RazerMS-Seamless-Integration-v3.0%28PCI%29)
-
-
 
 Known Issues
 ------------
