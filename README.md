@@ -35,6 +35,16 @@ Seamless Integration (non-PCI):
 - [Version 3.28](https://github.com/RazerMS/Seamless_Integration/wiki/Razer-Merchant-Services-Seamless-Integration-v3.28-(non-PCI))
 
 
+## Resources
+
+- GitHub:     https://github.com/RazerMS
+- Website:    https://merchant.razer.com/
+- Twitter:    https://twitter.com/Razer_MS
+- YouTube:    https://www.youtube.com/c/RazerMerchantServices
+- Facebook:   https://www.facebook.com/RazerMerchantServices/
+- Instagram:  https://www.instagram.com/RazerMerchantServices/
+
+
 Known Issues
 ------------
 - From Seamless Integration v3.12(non-PCI) -> Latest
