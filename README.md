@@ -33,6 +33,7 @@ Installations Guidance for Seamless
 Seamless Integration (non-PCI):
 - [Latest Version (Auto update)](https://github.com/RazerMS/Seamless_Integration/wiki/Latest-Razer-Merchant-Services-Seamless-Integration-(non-PCI)) **Update: 14/12/2021** - AlipayPlus
 - [Version 3.28](https://github.com/RazerMS/Seamless_Integration/wiki/Razer-Merchant-Services-Seamless-Integration-v3.28-(non-PCI))
+- [Seamless for RMS Indonesia](https://github.com/RazerMS/Integration-RazerMS_JavaScript_Seamless_Integration/wiki/Razer-Merchant-Services-Seamless-Integration-for-RMS-Indonesia-(non-PCI))
 
 
 ## Resources
